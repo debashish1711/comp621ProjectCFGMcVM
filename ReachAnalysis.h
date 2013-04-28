@@ -1,14 +1,5 @@
-#include "llvm/ADT/SmallVector.h"
-#include "clang/Analysis/Analyses/CFGReachabilityAnalysis.h"
-#include "clang/Analysis/CFG.h"
 
-using namespace clang;
 
-CFGReverseBlockReachabilityAnalysis::CFGReverseBlockReachabilityAnalysis(const CFG &cfg)
-  : analyzed(cfg.getNumBlockIDs(), false) {}
-
-bool CFGReverseBlockReachabilityAnalysis::isReachable(const CFGBlock *Src,
-                                          const CFGBlock *Dst) {
 
   const unsigned DstBlockID = Dst->getBlockID();
   
@@ -24,7 +15,7 @@ bool CFGReverseBlockReachabilityAnalysis::isReachable(const CFGBlock *Src,
 
 // Maps reachability to a common node by walking the predecessors of the
 // destination node.
-void CFGReverseBlockReachabilityAnalysis::mapReachability(const CFGBlock *Dst) {
+void CFG::mapReachability(const CFGBlock *Dst) {
   SmallVector<const CFGBlock *, 11> worklist;
   llvm::BitVector visited(analyzed.size());
   
@@ -37,7 +28,7 @@ void CFGReverseBlockReachabilityAnalysis::mapReachability(const CFGBlock *Dst) {
   bool firstRun = true;
   
   while (!worklist.empty()) {
-    const CFGBlock *block = worklist.back();
+    const Block *block = worklist.back();
     worklist.pop_back();
     
     if (visited[block->getBlockID()])
