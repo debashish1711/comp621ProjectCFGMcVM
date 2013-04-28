@@ -1,0 +1,10 @@
+
+ConvertToMyAST.cpp is the file that has the main().
+
+AST2CFG.cpp is the file where there's the logic of converting the Abstract Syntax Tree into a Control Flow Graph implemented.
+
+XMLtoAST.cpp is the file for parsing the ast.xml file
+
+Here is the code for compiling the files:
+
+ccache g++ -g -std=c++0x ConvertToMyAST.cpp SyntaxTree.c SyntaxNodeFactory.cpp SNode.cpp SAssignmentNode.cpp SConstantNode.cpp SDoWhileNode.cpp SExpressionNode.cpp SForNode.cpp SIdentifierNode.cpp SIfElseNode.cpp SReducibleNode.cpp SOrderConditionNode.cpp SWhileNode.cpp FlowPoint.cpp CFG.cpp SyntaxUtils.cpp MCGraph.cpp UniqueObjectIdMgr.cpp ExprMgr.cpp AtomExpr.cpp BinExpr.cpp ExprSimplifier.cpp Expr.cpp AST2CFG.cpp SyntaxSimplifier.cpp Block.cpp ForLoopFlowPoint.cpp CompoundBlock.cpp ExpressionBlock.cpp -o ConvertToMyAST `pkg-config libxml++-2.6 --cflags --libs`
