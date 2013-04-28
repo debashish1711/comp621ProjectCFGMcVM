@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/detail
+END
+returntype_deduction.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/detail/returntype_deduction.hpp
+END
+temporary.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/detail/temporary.hpp
+END
+duff.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/detail/duff.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/detail/config.hpp
+END
+vector_assign.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/detail/vector_assign.hpp
+END
+matrix_assign.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/detail/matrix_assign.hpp
+END
+documentation.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/detail/documentation.hpp
+END
+raw.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/detail/raw.hpp
+END
+iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/detail/iterator.hpp
+END
+definitions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/detail/definitions.hpp
+END
+concepts.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/detail/concepts.hpp
+END

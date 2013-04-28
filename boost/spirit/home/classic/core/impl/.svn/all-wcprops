@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/impl
+END
+parser.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/impl/parser.ipp
+END
+match_attr_traits.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/impl/match_attr_traits.ipp
+END
+match.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/impl/match.ipp
+END

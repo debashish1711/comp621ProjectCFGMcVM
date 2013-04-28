@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix
+END
+tuples.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/tuples.hpp
+END
+casts.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/casts.hpp
+END
+operators.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/operators.hpp
+END
+closures.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/closures.hpp
+END
+special_ops.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/special_ops.hpp
+END
+composite.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/composite.hpp
+END
+binders.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/binders.hpp
+END
+statements.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/statements.hpp
+END
+functions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/functions.hpp
+END
+actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/actor.hpp
+END
+new.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/new.hpp
+END
+tuple_helpers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/tuple_helpers.hpp
+END
+primitives.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/phoenix/primitives.hpp
+END

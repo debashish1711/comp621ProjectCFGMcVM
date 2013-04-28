@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl
+END
+exclusive_or.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl/exclusive_or.ipp
+END
+sequence.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl/sequence.ipp
+END
+difference.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl/difference.ipp
+END
+sequential_or.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl/sequential_or.ipp
+END
+list.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl/list.ipp
+END
+kleene_star.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl/kleene_star.ipp
+END
+sequential_and.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl/sequential_and.ipp
+END
+alternative.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl/alternative.ipp
+END
+directives.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl/directives.ipp
+END
+positive.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl/positive.ipp
+END
+optional.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl/optional.ipp
+END
+intersection.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/composite/impl/intersection.ipp
+END

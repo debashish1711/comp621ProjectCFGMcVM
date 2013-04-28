@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/operation
+END
+num_columns.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/operation/num_columns.hpp
+END
+c_array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/operation/c_array.hpp
+END
+begin.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/operation/begin.hpp
+END
+end.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/operation/end.hpp
+END
+num_rows.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/operation/num_rows.hpp
+END
+size.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/operation/size.hpp
+END

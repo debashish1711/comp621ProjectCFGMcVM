@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/debug
+END
+parser_names.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/debug/parser_names.hpp
+END
+typeof.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/debug/typeof.hpp
+END
+minimal.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/debug/minimal.hpp
+END
+debug_node.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/debug/debug_node.hpp
+END

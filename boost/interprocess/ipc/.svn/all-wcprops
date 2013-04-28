@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/ipc
+END
+message_queue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/ipc/message_queue.hpp
+END

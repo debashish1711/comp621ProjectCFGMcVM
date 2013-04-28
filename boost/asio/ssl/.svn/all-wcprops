@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/ssl
+END
+stream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/ssl/stream.hpp
+END
+stream_service.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/ssl/stream_service.hpp
+END
+context_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/ssl/context_base.hpp
+END
+context_service.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/ssl/context_service.hpp
+END
+context.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/ssl/context.hpp
+END
+basic_context.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/ssl/basic_context.hpp
+END
+stream_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/ssl/stream_base.hpp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/phoenix/core/detail
+END
+composite.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/phoenix/core/detail/composite.hpp
+END
+compose.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/phoenix/core/detail/compose.hpp
+END
+basic_environment.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/phoenix/core/detail/basic_environment.hpp
+END
+actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/phoenix/core/detail/actor.hpp
+END
+composite_eval.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/phoenix/core/detail/composite_eval.hpp
+END
+function_eval.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/phoenix/core/detail/function_eval.hpp
+END
+composite_info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/phoenix/core/detail/composite_info.hpp
+END

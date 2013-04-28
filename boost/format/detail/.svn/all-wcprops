@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/format/detail
+END
+workarounds_stlport.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/format/detail/workarounds_stlport.hpp
+END
+workarounds_gcc-2_95.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/format/detail/workarounds_gcc-2_95.hpp
+END
+msvc_disambiguater.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/format/detail/msvc_disambiguater.hpp
+END
+config_macros.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/format/detail/config_macros.hpp
+END
+compat_workarounds.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/format/detail/compat_workarounds.hpp
+END
+unset_macros.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/format/detail/unset_macros.hpp
+END

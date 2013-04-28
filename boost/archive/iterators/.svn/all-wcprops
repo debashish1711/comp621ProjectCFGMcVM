@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators
+END
+escape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/escape.hpp
+END
+xml_unescape_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/xml_unescape_exception.hpp
+END
+dataflow.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/dataflow.hpp
+END
+base64_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/base64_exception.hpp
+END
+unescape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/unescape.hpp
+END
+insert_linebreaks.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/insert_linebreaks.hpp
+END
+mb_from_wchar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/mb_from_wchar.hpp
+END
+wchar_from_mb.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/wchar_from_mb.hpp
+END
+remove_whitespace.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/remove_whitespace.hpp
+END
+head_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/head_iterator.hpp
+END
+transform_width.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/transform_width.hpp
+END
+base64_from_binary.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/base64_from_binary.hpp
+END
+binary_from_base64.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/binary_from_base64.hpp
+END
+istream_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/istream_iterator.hpp
+END
+dataflow_exception.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/dataflow_exception.hpp
+END
+xml_escape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/xml_escape.hpp
+END
+ostream_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/ostream_iterator.hpp
+END
+xml_unescape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/archive/iterators/xml_unescape.hpp
+END

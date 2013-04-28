@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/non_terminal/impl
+END
+static.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/non_terminal/impl/static.hpp
+END
+grammar.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/non_terminal/impl/grammar.ipp
+END
+rule.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/non_terminal/impl/rule.ipp
+END
+object_with_id.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/non_terminal/impl/object_with_id.ipp
+END
+subrule.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/non_terminal/impl/subrule.ipp
+END

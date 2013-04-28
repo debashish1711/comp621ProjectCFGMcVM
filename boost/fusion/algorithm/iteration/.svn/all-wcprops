@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/algorithm/iteration
+END
+accumulate.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/algorithm/iteration/accumulate.hpp
+END
+fold.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/algorithm/iteration/fold.hpp
+END
+for_each.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/algorithm/iteration/for_each.hpp
+END

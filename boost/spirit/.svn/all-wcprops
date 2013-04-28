@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit
+END
+version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/version.hpp
+END
+meta.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/meta.hpp
+END
+debug.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/debug.hpp
+END
+actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor.hpp
+END
+core.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/core.hpp
+END
+symbols.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/symbols.hpp
+END
+iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/iterator.hpp
+END
+phoenix.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/phoenix.hpp
+END
+error_handling.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/error_handling.hpp
+END
+attribute.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/attribute.hpp
+END
+utility.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/utility.hpp
+END
+dynamic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/dynamic.hpp
+END

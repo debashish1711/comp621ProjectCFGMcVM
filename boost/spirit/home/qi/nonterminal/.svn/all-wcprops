@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/qi/nonterminal
+END
+grammar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/qi/nonterminal/grammar.hpp
+END
+error_handler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/qi/nonterminal/error_handler.hpp
+END
+simple_trace.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/qi/nonterminal/simple_trace.hpp
+END
+rule.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/qi/nonterminal/rule.hpp
+END
+debug_handler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/qi/nonterminal/debug_handler.hpp
+END

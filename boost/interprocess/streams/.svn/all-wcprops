@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/streams
+END
+vectorstream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/streams/vectorstream.hpp
+END
+bufferstream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/streams/bufferstream.hpp
+END

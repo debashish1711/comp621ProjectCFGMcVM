@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/dynamic/impl
+END
+conditions.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/dynamic/impl/conditions.ipp
+END
+select.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/dynamic/impl/select.ipp
+END
+switch.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/dynamic/impl/switch.ipp
+END

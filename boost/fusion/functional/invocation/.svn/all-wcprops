@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/functional/invocation
+END
+limits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/functional/invocation/limits.hpp
+END
+invoke_procedure.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/functional/invocation/invoke_procedure.hpp
+END
+invoke_function_object.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/functional/invocation/invoke_function_object.hpp
+END
+invoke.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/functional/invocation/invoke.hpp
+END

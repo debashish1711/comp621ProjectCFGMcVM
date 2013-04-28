@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/primitives
+END
+numerics_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/primitives/numerics_fwd.hpp
+END
+numerics.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/primitives/numerics.hpp
+END
+primitives.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/primitives/primitives.hpp
+END

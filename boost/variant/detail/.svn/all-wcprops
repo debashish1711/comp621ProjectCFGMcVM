@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail
+END
+initializer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/initializer.hpp
+END
+has_trivial_move.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/has_trivial_move.hpp
+END
+apply_visitor_delayed.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/apply_visitor_delayed.hpp
+END
+variant_io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/variant_io.hpp
+END
+make_variant_list.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/make_variant_list.hpp
+END
+forced_return.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/forced_return.hpp
+END
+backup_holder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/backup_holder.hpp
+END
+over_sequence.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/over_sequence.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/config.hpp
+END
+move.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/move.hpp
+END
+apply_visitor_binary.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/apply_visitor_binary.hpp
+END
+visitation_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/visitation_impl.hpp
+END
+substitute.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/substitute.hpp
+END
+generic_result_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/generic_result_type.hpp
+END
+substitute_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/substitute_fwd.hpp
+END
+bool_trait_def.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/bool_trait_def.hpp
+END
+enable_recursive_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/enable_recursive_fwd.hpp
+END
+enable_recursive.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/enable_recursive.hpp
+END
+cast_storage.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/cast_storage.hpp
+END
+bool_trait_undef.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/bool_trait_undef.hpp
+END
+has_nothrow_move.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/has_nothrow_move.hpp
+END
+apply_visitor_unary.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/variant/detail/apply_visitor_unary.hpp
+END

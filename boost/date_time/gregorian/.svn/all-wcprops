@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian
+END
+gregorian_types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/gregorian_types.hpp
+END
+greg_year.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/greg_year.hpp
+END
+gregorian_io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/gregorian_io.hpp
+END
+gregorian.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/gregorian.hpp
+END
+greg_duration_types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/greg_duration_types.hpp
+END
+greg_calendar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/greg_calendar.hpp
+END
+parsers.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/parsers.hpp
+END
+greg_day.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/greg_day.hpp
+END
+greg_date.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/greg_date.hpp
+END
+conversion.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/conversion.hpp
+END
+greg_day_of_year.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/greg_day_of_year.hpp
+END
+formatters.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/formatters.hpp
+END
+greg_facet.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/greg_facet.hpp
+END
+greg_duration.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/greg_duration.hpp
+END
+greg_month.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/greg_month.hpp
+END
+greg_serialize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/greg_serialize.hpp
+END
+formatters_limited.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/formatters_limited.hpp
+END
+greg_ymd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/greg_ymd.hpp
+END
+greg_weekday.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/date_time/gregorian/greg_weekday.hpp
+END

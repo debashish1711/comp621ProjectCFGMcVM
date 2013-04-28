@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CompilationUnits id="0" name="name">
+    <FunctionList fullpath="high.m" id="1" line="1">
+        <Function id="2" line="1" name="high">
+            <InputParamList>
+                <Name id="3" line="0" nameId="a"/>
+                <Name id="4" line="0" nameId="b"/>
+            </InputParamList>
+            <OutputParamList>
+                <Name id="5" line="0" nameId="res"/>
+            </OutputParamList>
+            <StmtList>
+                <IfStmt id="6" line="2">
+                    <IfBlock id="7" line="0">
+                        <LTExpr id="8" line="2">
+                            <NameExpr id="9" kind="VAR" kind_insensitive="VAR" kind_sensitive="VAR" line="2">
+                                <Name id="10" line="2" nameId="b"/>
+                            </NameExpr>
+                            <NameExpr id="11" kind="VAR" kind_insensitive="VAR" kind_sensitive="VAR" line="2">
+                                <Name id="12" line="2" nameId="a"/>
+                            </NameExpr>
+                        </LTExpr>
+                        <StmtList>
+                            <AssignStmt id="13" line="3" outputSuppressed="true">
+                                <NameExpr id="14" kind="VAR" kind_insensitive="VAR" kind_sensitive="VAR" line="3">
+                                    <Name id="15" line="3" nameId="res"/>
+                                </NameExpr>
+                                <NameExpr id="16" kind="VAR" kind_insensitive="VAR" kind_sensitive="VAR" line="3">
+                                    <Name id="17" line="3" nameId="b"/>
+                                </NameExpr>
+                            </AssignStmt>
+                        </StmtList>
+                    </IfBlock>
+                    <ElseBlock id="18" line="4">
+                        <StmtList>
+                            <AssignStmt id="19" line="5" outputSuppressed="true">
+                                <NameExpr id="20" kind="VAR" kind_insensitive="VAR" kind_sensitive="VAR" line="5">
+                                    <Name id="21" line="5" nameId="res"/>
+                                </NameExpr>
+                                <NameExpr id="22" kind="VAR" kind_insensitive="VAR" kind_sensitive="VAR" line="5">
+                                    <Name id="23" line="5" nameId="a"/>
+                                </NameExpr>
+                            </AssignStmt>
+                        </StmtList>
+                    </ElseBlock>
+                </IfStmt>
+            </StmtList>
+        </Function>
+    </FunctionList>
+</CompilationUnits>

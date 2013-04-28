@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/posix
+END
+basic_descriptor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/posix/basic_descriptor.hpp
+END
+descriptor_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/posix/descriptor_base.hpp
+END
+stream_descriptor_service.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/posix/stream_descriptor_service.hpp
+END
+stream_descriptor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/posix/stream_descriptor.hpp
+END
+basic_stream_descriptor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/posix/basic_stream_descriptor.hpp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/container/deque
+END
+limits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/container/deque/limits.hpp
+END
+back_extended_deque.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/container/deque/back_extended_deque.hpp
+END
+deque.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/container/deque/deque.hpp
+END
+deque_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/container/deque/deque_fwd.hpp
+END
+front_extended_deque.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/container/deque/front_extended_deque.hpp
+END
+deque_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/container/deque/deque_iterator.hpp
+END
+convert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/container/deque/convert.hpp
+END

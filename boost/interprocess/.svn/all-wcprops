@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess
+END
+segment_manager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/segment_manager.hpp
+END
+anonymous_shared_memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/anonymous_shared_memory.hpp
+END
+windows_shared_memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/windows_shared_memory.hpp
+END
+mapped_region.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/mapped_region.hpp
+END
+managed_shared_memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/managed_shared_memory.hpp
+END
+offset_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/offset_ptr.hpp
+END
+errors.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/errors.hpp
+END
+interprocess_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/interprocess_fwd.hpp
+END
+exceptions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/exceptions.hpp
+END
+managed_mapped_file.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/managed_mapped_file.hpp
+END
+managed_heap_memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/managed_heap_memory.hpp
+END
+creation_tags.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/creation_tags.hpp
+END
+managed_windows_shared_memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/managed_windows_shared_memory.hpp
+END
+shared_memory_object.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/shared_memory_object.hpp
+END
+managed_external_buffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/managed_external_buffer.hpp
+END
+file_mapping.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/file_mapping.hpp
+END

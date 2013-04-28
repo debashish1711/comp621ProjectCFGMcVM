@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/config/stdlib
+END
+modena.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/config/stdlib/modena.hpp
+END
+roguewave.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/config/stdlib/roguewave.hpp
+END
+libcomo.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/config/stdlib/libcomo.hpp
+END
+dinkumware.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/config/stdlib/dinkumware.hpp
+END
+libstdcpp3.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/config/stdlib/libstdcpp3.hpp
+END
+stlport.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/config/stdlib/stlport.hpp
+END
+vacpp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/config/stdlib/vacpp.hpp
+END
+msl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/config/stdlib/msl.hpp
+END
+sgi.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/config/stdlib/sgi.hpp
+END

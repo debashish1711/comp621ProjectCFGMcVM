@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/assign/std
+END
+vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/assign/std/vector.hpp
+END
+deque.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/assign/std/deque.hpp
+END
+queue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/assign/std/queue.hpp
+END
+stack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/assign/std/stack.hpp
+END
+list.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/assign/std/list.hpp
+END
+set.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/assign/std/set.hpp
+END
+map.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/assign/std/map.hpp
+END
+slist.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/assign/std/slist.hpp
+END

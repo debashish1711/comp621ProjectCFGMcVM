@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/allocators
+END
+cached_node_allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/allocators/cached_node_allocator.hpp
+END
+cached_adaptive_pool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/allocators/cached_adaptive_pool.hpp
+END
+private_node_allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/allocators/private_node_allocator.hpp
+END
+private_adaptive_pool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/allocators/private_adaptive_pool.hpp
+END
+allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/allocators/allocator.hpp
+END
+node_allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/allocators/node_allocator.hpp
+END
+adaptive_pool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/allocators/adaptive_pool.hpp
+END

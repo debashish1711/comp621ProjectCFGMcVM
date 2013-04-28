@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/adapted
+END
+struct.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/adapted/struct.hpp
+END
+class.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/adapted/class.hpp
+END
+std_pair.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/adapted/std_pair.hpp
+END
+mpl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/adapted/mpl.hpp
+END
+array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/adapted/array.hpp
+END
+boost_tuple.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/fusion/adapted/boost_tuple.hpp
+END

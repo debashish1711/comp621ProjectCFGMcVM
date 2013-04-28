@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/support/char_encoding
+END
+standard.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/support/char_encoding/standard.hpp
+END
+iso8859_1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/support/char_encoding/iso8859_1.hpp
+END
+standard_wide.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/support/char_encoding/standard_wide.hpp
+END
+ascii.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/support/char_encoding/ascii.hpp
+END

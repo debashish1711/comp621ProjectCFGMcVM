@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/support/detail/integer
+END
+endian.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/support/detail/integer/endian.hpp
+END
+cover_operators.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/support/detail/integer/cover_operators.hpp
+END

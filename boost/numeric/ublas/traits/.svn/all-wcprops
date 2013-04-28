@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/traits
+END
+iterator_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/traits/iterator_type.hpp
+END
+const_iterator_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/traits/const_iterator_type.hpp
+END
+c_array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/numeric/ublas/traits/c_array.hpp
+END

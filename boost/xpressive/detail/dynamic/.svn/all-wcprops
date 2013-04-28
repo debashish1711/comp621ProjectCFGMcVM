@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/xpressive/detail/dynamic
+END
+sequence.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/xpressive/detail/dynamic/sequence.hpp
+END
+parser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/xpressive/detail/dynamic/parser.hpp
+END
+parser_enum.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/xpressive/detail/dynamic/parser_enum.hpp
+END
+matchable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/xpressive/detail/dynamic/matchable.hpp
+END
+parser_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/xpressive/detail/dynamic/parser_traits.hpp
+END
+parse_charset.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/xpressive/detail/dynamic/parse_charset.hpp
+END
+dynamic.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/xpressive/detail/dynamic/dynamic.hpp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/graph/planar_detail
+END
+add_edge_visitors.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/graph/planar_detail/add_edge_visitors.hpp
+END
+bucket_sort.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/graph/planar_detail/bucket_sort.hpp
+END
+face_iterators.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/graph/planar_detail/face_iterators.hpp
+END
+face_handles.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/graph/planar_detail/face_handles.hpp
+END
+boyer_myrvold_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/graph/planar_detail/boyer_myrvold_impl.hpp
+END

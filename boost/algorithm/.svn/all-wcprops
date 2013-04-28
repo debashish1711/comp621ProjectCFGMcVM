@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/algorithm
+END
+minmax.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/algorithm/minmax.hpp
+END
+string_regex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/algorithm/string_regex.hpp
+END
+minmax_element.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/algorithm/minmax_element.hpp
+END
+string.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/algorithm/string.hpp
+END

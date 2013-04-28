@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/test/utils/iterator
+END
+ifstream_line_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/test/utils/iterator/ifstream_line_iterator.hpp
+END
+input_iterator_facade.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/test/utils/iterator/input_iterator_facade.hpp
+END
+istream_line_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/test/utils/iterator/istream_line_iterator.hpp
+END
+token_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/test/utils/iterator/token_iterator.hpp
+END

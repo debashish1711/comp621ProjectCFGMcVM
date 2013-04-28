@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor
+END
+assign_key_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/assign_key_actor.hpp
+END
+push_back_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/push_back_actor.hpp
+END
+erase_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/erase_actor.hpp
+END
+decrement_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/decrement_actor.hpp
+END
+ref_value_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/ref_value_actor.hpp
+END
+swap_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/swap_actor.hpp
+END
+ref_const_ref_value_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/ref_const_ref_value_actor.hpp
+END
+ref_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/ref_actor.hpp
+END
+insert_key_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/insert_key_actor.hpp
+END
+ref_const_ref_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/ref_const_ref_actor.hpp
+END
+typeof.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/typeof.hpp
+END
+increment_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/increment_actor.hpp
+END
+assign_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/assign_actor.hpp
+END
+clear_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/clear_actor.hpp
+END
+push_front_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/push_front_actor.hpp
+END
+ref_const_ref_const_ref_a.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/ref_const_ref_const_ref_a.hpp
+END
+insert_at_actor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/actor/insert_at_actor.hpp
+END

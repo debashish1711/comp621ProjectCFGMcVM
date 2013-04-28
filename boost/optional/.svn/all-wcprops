@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/optional
+END
+optional_io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/optional/optional_io.hpp
+END
+optional.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/optional/optional.hpp
+END
+optional_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/optional/optional_fwd.hpp
+END

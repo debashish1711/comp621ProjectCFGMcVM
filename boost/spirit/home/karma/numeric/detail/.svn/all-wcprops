@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/karma/numeric/detail
+END
+bool_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/karma/numeric/detail/bool_utils.hpp
+END
+numeric_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/karma/numeric/detail/numeric_utils.hpp
+END
+real_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/karma/numeric/detail/real_utils.hpp
+END

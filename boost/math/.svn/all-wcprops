@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/math
+END
+distributions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/math/distributions.hpp
+END
+quaternion.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/math/quaternion.hpp
+END
+tr1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/math/tr1.hpp
+END
+common_factor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/math/common_factor.hpp
+END
+complex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/math/complex.hpp
+END
+special_functions.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/math/special_functions.hpp
+END
+octonion.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/math/octonion.hpp
+END
+common_factor_rt.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/math/common_factor_rt.hpp
+END
+common_factor_ct.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/math/common_factor_ct.hpp
+END

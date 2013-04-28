@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/scanner
+END
+scanner.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/scanner/scanner.hpp
+END
+scanner_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/scanner/scanner_fwd.hpp
+END
+skipper_fwd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/scanner/skipper_fwd.hpp
+END
+skipper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/classic/core/scanner/skipper.hpp
+END

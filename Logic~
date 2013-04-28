@@ -1,0 +1,25 @@
+
+Obtain each node from the XMLtoAST.cpp
+  For each node create a flowpoint
+     Merge expression FlowPoint if part of same flow point, in single FLow point Ne
+     Merge consecutive flow points, if not part of a loop into single Compound block
+     
+     In case of loops (Forstmt, Whilestmt or LoopStmt), flow points should be one after another. 
+     Eg: for i=1:2:15     should have 1.ForStmt as the LoopStmt 2.Expression i=1 as the input 3.Condition i<=15 4.The body followed by i=i+2; Then there should be a backedge to the ForStmt
+         {  body; }
+    Same logic for WhileStmt
+
+    In case of IfStmt there's a divergence into 2 different blocks. IfStmt(condition) -> isTrue -> ExecuteStmt or                        IfStmt(condition) -> isFalse -> Execute else part of the statement     Then merge the results of the ifStmt and the elseStmt.
+2 edges from IfStmt, 1 for the case when the condition evaluated is true and the other for the case when the condition is false.
+
+Call to function SNode
+
+make this call from main in ConvertToMyAST.cpp
+SNode* SyntaxNodeFactory::createNode(NodeData* n)
+
+
+
+Then pass the argument for SNode 
+
+
+

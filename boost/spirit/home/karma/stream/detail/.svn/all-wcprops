@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/karma/stream/detail
+END
+format_manip.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/karma/stream/detail/format_manip.hpp
+END
+iterator_sink.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/karma/stream/detail/iterator_sink.hpp
+END
+format_manip_auto.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/karma/stream/detail/format_manip_auto.hpp
+END

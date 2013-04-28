@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/accumulators/numeric/functional
+END
+complex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/accumulators/numeric/functional/complex.hpp
+END
+valarray.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/accumulators/numeric/functional/valarray.hpp
+END
+vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/accumulators/numeric/functional/vector.hpp
+END

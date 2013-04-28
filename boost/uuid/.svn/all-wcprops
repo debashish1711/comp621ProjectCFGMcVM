@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/uuid
+END
+uuid_io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/uuid/uuid_io.hpp
+END
+uuid_serialize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/uuid/uuid_serialize.hpp
+END
+uuid_generators.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/uuid/uuid_generators.hpp
+END
+seed_rng.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/uuid/seed_rng.hpp
+END
+uuid.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/uuid/uuid.hpp
+END
+sha1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/uuid/sha1.hpp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/impl
+END
+read_until.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/impl/read_until.ipp
+END
+io_service.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/impl/io_service.ipp
+END
+write.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/impl/write.ipp
+END
+read.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/impl/read.ipp
+END
+serial_port_base.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/impl/serial_port_base.ipp
+END
+write_at.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/impl/write_at.ipp
+END
+read_at.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/asio/impl/read_at.ipp
+END

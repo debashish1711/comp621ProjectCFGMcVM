@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/regex
+END
+pattern_except.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/regex/pattern_except.hpp
+END
+mfc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/regex/mfc.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/regex/config.hpp
+END
+user.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/regex/user.hpp
+END
+concepts.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/regex/concepts.hpp
+END
+icu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/regex/icu.hpp
+END
+regex_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/regex/regex_traits.hpp
+END

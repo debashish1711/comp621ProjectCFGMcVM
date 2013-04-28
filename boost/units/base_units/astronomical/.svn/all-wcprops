@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/units/base_units/astronomical
+END
+light_second.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/units/base_units/astronomical/light_second.hpp
+END
+light_day.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/units/base_units/astronomical/light_day.hpp
+END
+light_hour.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/units/base_units/astronomical/light_hour.hpp
+END
+light_year.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/units/base_units/astronomical/light_year.hpp
+END
+light_minute.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/units/base_units/astronomical/light_minute.hpp
+END
+astronomical_unit.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/units/base_units/astronomical/astronomical_unit.hpp
+END
+parsec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/units/base_units/astronomical/parsec.hpp
+END

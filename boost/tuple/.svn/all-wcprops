@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/tuple
+END
+tuple_comparison.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/tuple/tuple_comparison.hpp
+END
+tuple.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/tuple/tuple.hpp
+END
+tuple_io.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/tuple/tuple_io.hpp
+END

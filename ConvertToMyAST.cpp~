@@ -1,0 +1,421 @@
+#include "stdlib.h"
+#include "SyntaxParserInterface.h"
+#include <libxml++/libxml++.h>
+#include <iostream>
+#include <string>
+#include "glib.h"
+#include "XMLtoAST.cpp"
+#include "SyntaxNodeFactory.h"
+#include "SNode.h"
+#include "SyntaxTree.h"
+#include "SNode.h"
+#include "FlowPoint.h"
+#include "CFG.h"
+#include "Syntax2CFG.h"
+
+
+//using namespace std;
+
+class SNode;
+
+//class parseTree
+//{
+/*public : enum type
+   {
+      IfStmt,
+      LTExpr,
+      NameExpr,
+      GTExpr,
+      AssignStmt,
+      StmtList,
+      IfBlock,
+      ElseBlock, 
+*/
+using namespace std;
+
+
+      
+nodeType getType(const xmlpp::Node* xml_tree)
+{
+     const Glib::ustring nodename = xml_tree->get_name();
+
+     if(nodename.compare("IfStmt") == TRUE)
+     {
+     printf("\n CONDITION_IF");
+     return CONDITION_IF;
+     }
+     else if(nodename.compare("LTExpr")==TRUE)
+     {
+        printf("\n LESS_THAN_EXPR ");
+     	return LESS_THAN_EXPR;
+     }
+     else if(nodename.compare("InputParamList")==TRUE)
+     {
+         printf("\n PARAM_LIST");
+         return PARAM_LIST;
+     }
+     else if(nodename.compare("WhileStmt")==TRUE)
+     {
+         printf("\n WHILE_LOOP ");
+         return WHILE_LOOP;
+     }
+     else if(nodename.compare("AssignStmt")==TRUE)
+     {
+         printf("\n ASSIGNMENT_EXPR");
+         return ASSIGNMENT_EXPR;
+     }
+     else if(nodename.compare("IfBlock")==TRUE)
+     {     
+          printf("\n PARAM_LIST ");
+          return PARAM_LIST;
+     }
+     else if(nodename.compare("GTExpr")==TRUE)
+     {
+          printf("\n GREATER_THAN_EXPR ");
+          return GREATER_THAN_EXPR;
+     }
+     else if(nodename.compare("StmtList")==TRUE)
+    {
+          printf("\n STATEMENT_LIST");
+          return STATEMENT_LIST;
+    }
+     else if(nodename.compare("ForStmt")==TRUE)
+     {
+           printf("\n FOR_LOOP");
+           return FOR_LOOP;
+     }
+     else if(nodename.compare("Expr")==TRUE)
+     {
+           printf("\nEXPRESSION");
+           return EXPRESSION;
+     }
+     else if(nodename.compare("EqExpr")==TRUE)
+     {
+            printf("\n EQUAL_EXPR ");
+            return EQUAL_EXPR;
+     }
+     else if(nodename.compare("GEExpr")==TRUE)
+     {
+            printf("\n GREATER_EQ_THAN_EXPR");
+            return GREATER_EQ_THAN_EXPR;
+     }
+     else if(nodename.compare("LEExpr")==TRUE)
+     {
+            printf("\n LESS_EQ_THAN_EXPR");
+            return LESS_EQ_THAN_EXPR;
+     }
+     else if(nodename.compare("PlusExpr")==TRUE)
+     {
+            printf("\n ADD_EXPR");
+            return ADD_EXPR;
+     }
+     else if(nodename.compare("MinusExpr")==TRUE)
+     {
+            printf("\n SUB_EXPR ");
+            return SUB_EXPR;
+     }
+     else if(nodename.compare("AndExpr")==TRUE)
+     {
+            printf("\n AND_EXPR ");
+            return AND_EXPR;
+     }
+}
+
+
+         /*  switch(P->m_type)
+           {
+                  case CONDITION_IF:
+                     printf("\n CONDITION_IF");
+                     break;
+            
+                  case LESS_THAN_EXPR:
+                     printf("\n LESS_THAN_EXPR");
+                     break;
+
+                  case BLOCK:
+                     printf("\n BLOCK");
+                     break;
+
+                  case PARAM_LIST:
+                     printf("\n PARAM_LIST");
+                     break;
+
+                  case WHILE_LOOP:
+                     printf("\n WHILE_LOOP");
+                     break;
+
+                  case ASSIGNMENT_EXPR:
+                     printf("\n ASSIGNMENT_EXPR");
+                     break;
+
+                  case GREATER_THAN_EXPR:
+                     printf("\n GREATER_THAN_EXPR");
+                     break;
+
+                  case FOR_LOOP:
+                     printf("\n FOR_LOOP");
+                     break;
+
+                  case EXPRESSION:
+                     printf("\n EXPRESSION");
+                     break;
+
+                  case EQUAL_EXPR:
+                     printf("\n EQUAL_EXPR");
+                     break;
+
+                  case GREATER_EQ_THAN_EXPR:
+                     printf("\n GREATER_EQ_THAN_EXPR");
+                     break;
+
+
+                  case LESS_EQ_THAN_EXPR:
+                     printf("\n LESS_EQ_THAN_EXPR");
+                     break;
+
+                  
+
+                  case ADD_EXPR:
+                     printf("\n ADD_EXPR");
+                     break;
+
+                 case SUB_EXPR:
+                     printf("\n SUB_EXPR");
+                     break;
+
+                 case AND_EXPR:
+                     printf("\n AND_EXPR");
+                     break;
+                  
+    
+    };  */
+
+
+ NodeData* parseTree(const xmlpp::Node* xml_tree)                     //,SNode* snd)
+{
+      NodeData* P=createNode(getType(xml_tree));
+      //P->m_type=getType(xml_tree);
+      //printf( " Node type   %d\n",P->m_type);  
+     // P->m_name = xml_tree->get_name().str().c_str();
+     // printf( " Node name   %s\n",P->m_name);                                                                          
+      //appendChild(root, P);                                                                         // P->m_name = xml_tree->get_name();
+      return P;
+} 
+	
+
+void GenerateNodeTree(NodeData* Parnt, const xmlpp::Node* pNode)
+{
+                                                
+         xmlpp::Node::NodeList list = pNode->get_children();
+        //printf("Number of children %d\n", getChildsCount();
+        for(xmlpp::Node::NodeList::iterator iter = list.begin(); iter != list.end(); ++iter)
+        {
+         NodeData* chld=parseTree(*iter); //recursive
+         SNode* sn=new SNode(*root);
+         std::ostringstream os;
+         printf("working3!!");
+         CFG *flgraph=new CFG();
+         printf("working0!!");
+         Syntax2CFG *chk=new Syntax2CFG(sn,*flgraph);
+         printf("working1!!");
+         chk->execute();
+         printf("working2!!");
+         flgraph->printForDot(os);
+	printf("working!!");
+         std::cout<< "The Flow graph i0s\n"; 
+         std::cout << os.str().c_str();
+         appendChild(Parnt, chld);
+         GenerateNodeTree(chld,*iter);
+         }
+                                              // Call the parsetree to create NodeData*
+      
+
+}
+
+//void GenerateSNodeTree(SNode* sn,NodeData* 
+
+
+
+
+       
+
+
+int main(int argc, char* argv[])
+{
+  // Set the global C++ locale to the user-configured locale,
+  // so we can use std::cout with UTF-8, via Glib::ustring, without exceptions.
+  std::locale::global(std::locale(""));
+
+  bool validate = false;
+  bool set_throw_messages = false;
+  bool throw_messages = false;
+  bool substitute_entities = true;
+
+  int argi = 1;
+  while (argc > argi && *argv[argi] == '-') // option
+  {
+    switch (*(argv[argi]+1))
+    {
+      case 'v':
+        validate = true;
+        break;
+      case 't':
+       set_throw_messages = true;
+       throw_messages = true;
+       break;
+      case 'e':
+       set_throw_messages = true;
+       throw_messages = false;
+       break;
+      case 'E':
+        substitute_entities = false;
+        break;
+     default:
+       std::cout << "Usage: " << argv[0] << " [-v] [-t] [-e] [filename]" << std::endl
+                 << "       -v  Validate" << std::endl
+                 << "       -t  Throw messages in an exception" << std::endl
+                 << "       -e  Write messages to stderr" << std::endl
+                 << "       -E  Do not substitute entities" << std::endl;
+       return EXIT_FAILURE;
+     }
+     argi++;
+  }
+  std::string filepath;
+  if(argc > argi)
+    filepath = argv[argi]; //Allow the user to specify a different XML file to parse.
+  else
+    filepath = "example.xml";
+ 
+  try
+  {
+    xmlpp::DomParser parser;
+    if (validate)
+      parser.set_validate();
+    //We can have the text resolved/unescaped automatically.
+    parser.set_substitute_entities(substitute_entities);
+    parser.parse_file(filepath);
+   // NodeData* Parnt=createNode(BLOCK);
+   // SNode* Orig=SyntaxNodeFactory::the().createNode(Root);
+   
+    //cout << Parnt->m_name ;
+    if(parser)
+    {
+      //Walk the tree:
+     
+        
+      printf("working4!!"); 
+      const xmlpp::Node* pNode = parser.get_document()->get_root_node();           // Create a root node of type Node*  
+      printf("working132!!"); 
+      NodeData* root=parseTree(pNode);  
+      printf("working56!!");   
+      GenerateNodeTree(root,pNode);  
+      printf("working4!!"); 
+      SNode* sn=new SNode(*root);   
+      printf("working23!!");                                     // Call the parsetree to create NodeData*
+      std::ostringstream os;
+      printf("working3!!");
+      CFG *flgraph=new CFG();
+      printf("working0!!");
+      Syntax2CFG *chk=new Syntax2CFG(sn,*flgraph);
+      printf("working1!!");
+      chk->execute();
+      printf("working2!!");
+      flgraph->printForDot(os);
+	printf("working!!");
+      std::cout<< "The Flow graph i0s\n"; 
+      std::cout << os.str().c_str();
+        
+     // parseTree(pNode,Root);
+    //  SNode* SyntaxNodeFactory::createNode(NodeData* n);
+      //print_node(pNode);
+    }
+    
+  }
+  catch(const std::exception& ex)
+  {
+    std::cerr << "Exception caught: " << ex.what() << std::endl;
+    return EXIT_FAILURE;
+  }
+
+  return EXIT_SUCCESS;
+}
+
+
+
+
+
+
+/*
+
+#pragma once
+
+typedef enum {
+        CONDITION_IF, -> IfStmt  / IfBlock
+        CONDITION_IF_ELSE, -> ElseBlock
+        STATEMENT, -> Stmt
+        COMPOUND_STATEMENT,  
+        STATEMENT_LIST,   -> Stmt->List
+        EXPRESSION_STATEMENT,
+        SELECTION_STATEMENT,
+        EXPRESSION,
+        CONDITIONAL_EXPRESSION,
+        ASSIGNMENT_EXPR,
+        EQ_ASSIGNMENT_EXPR,
+        MUL_ASSIGNMENT_EXPR,
+        DIV_ASSIGNMENT_EXPR,
+        ADD_ASSIGNMENT_EXPR,
+        SUB_ASSIGNMENT_EXPR,
+        MOD_ASSIGNMENT_EXPR,
+        LOGICAL_OR_EXPR,
+        LOGICAL_AND_EXPR,
+        EQUAL_EXPR,
+        NOT_EQUAL_EXPR,
+        LESS_THAN_EXPR,
+        GREATER_THAN_EXPR,
+        LESS_EQ_THAN_EXPR,
+        GREATER_EQ_THAN_EXPR,
+        AND_EXPR,
+        ADD_EXPR,
+        SUB_EXPR,
+        MULT_EXPR,
+        DIV_EXPR,
+        MOD_EXPR,
+        PRE_INCREMENT_UNARY_EXPR,
+        PRE_DECREMENT_UNARY_EXPR,
+        POST_INCREMENT_EXPR,
+        POST_DECREMENT_EXPR,
+        PREFIX_OP_UNARY_EXPR,
+        PREFIX_PLUS,
+        PREFIX_MINUS,
+        PREFIX_NOT,
+        BLOCK,
+        NONE,
+        ID,
+        CONST_TYPE,
+        STR_LITERAL,
+        DECLARATION,
+        INIT_DECLARATOR_LIST,
+        TYPE_SPECIFIER,
+        PARAM_LIST,
+        PARAM_DECLARATION,
+        DECLARATION_LIST,
+        TRANSLATION_UNIT,
+        WHILE_LOOP,
+        DO_WHILE_LOOP,
+        FOR_LOOP,
+        NOP} nodeType;
+
+typedef struct tagNode{
+        nodeType m_type;
+        nodeType m_subType;
+        unsigned int m_childCount;
+        unsigned int m_size;
+        char* m_name;
+        int   m_constVal;
+        int   m_row;
+        int   m_column;
+        struct tagNode **m_childs;
+} NodeData;
+	
+*/
+

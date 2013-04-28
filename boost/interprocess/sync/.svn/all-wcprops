@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync
+END
+scoped_lock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/scoped_lock.hpp
+END
+interprocess_condition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/interprocess_condition.hpp
+END
+interprocess_barrier.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/interprocess_barrier.hpp
+END
+named_semaphore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/named_semaphore.hpp
+END
+file_lock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/file_lock.hpp
+END
+interprocess_upgradable_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/interprocess_upgradable_mutex.hpp
+END
+interprocess_recursive_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/interprocess_recursive_mutex.hpp
+END
+sharable_lock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/sharable_lock.hpp
+END
+named_condition.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/named_condition.hpp
+END
+null_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/null_mutex.hpp
+END
+named_upgradable_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/named_upgradable_mutex.hpp
+END
+named_recursive_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/named_recursive_mutex.hpp
+END
+interprocess_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/interprocess_mutex.hpp
+END
+mutex_family.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/mutex_family.hpp
+END
+lock_options.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/lock_options.hpp
+END
+named_mutex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/named_mutex.hpp
+END
+upgradable_lock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/upgradable_lock.hpp
+END
+interprocess_semaphore.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/interprocess/sync/interprocess_semaphore.hpp
+END

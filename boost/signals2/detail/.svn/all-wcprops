@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail
+END
+slot_call_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/slot_call_iterator.hpp
+END
+preprocessed_arg_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/preprocessed_arg_type.hpp
+END
+lwm_pthreads.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/lwm_pthreads.hpp
+END
+auto_buffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/auto_buffer.hpp
+END
+null_output_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/null_output_iterator.hpp
+END
+tracked_objects_visitor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/tracked_objects_visitor.hpp
+END
+lwm_win32_cs.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/lwm_win32_cs.hpp
+END
+signals_common.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/signals_common.hpp
+END
+signal_template.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/signal_template.hpp
+END
+lwm_nop.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/lwm_nop.hpp
+END
+signals_common_macros.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/signals_common_macros.hpp
+END
+variadic_arg_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/variadic_arg_type.hpp
+END
+slot_template.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/slot_template.hpp
+END
+unique_lock.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/unique_lock.hpp
+END
+result_type_wrapper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/result_type_wrapper.hpp
+END
+variadic_slot_invoker.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/variadic_slot_invoker.hpp
+END
+slot_groups.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/slot_groups.hpp
+END
+replace_slot_function.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/replace_slot_function.hpp
+END
+preprocessed_arg_type_template.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/signals2/detail/preprocessed_arg_type_template.hpp
+END

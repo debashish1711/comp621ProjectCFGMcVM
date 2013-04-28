@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex
+END
+primitives.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex/primitives.hpp
+END
+lexer_lexertl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex/lexer_lexertl.hpp
+END
+reference.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex/reference.hpp
+END
+tokenize_and_parse_attr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex/tokenize_and_parse_attr.hpp
+END
+lexer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex/lexer.hpp
+END
+meta_compiler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex/meta_compiler.hpp
+END
+lexer_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex/lexer_type.hpp
+END
+argument.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex/argument.hpp
+END
+tokenize_and_parse.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex/tokenize_and_parse.hpp
+END
+lexer_static_lexertl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex/lexer_static_lexertl.hpp
+END
+domain.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex/domain.hpp
+END
+qi.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/16/trunk/ThirdParty/Include/boost/spirit/home/lex/qi.hpp
+END
